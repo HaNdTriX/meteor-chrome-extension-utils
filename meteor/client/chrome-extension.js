@@ -49,9 +49,7 @@ ChromeExtension = {
    * 
    * @return {Boolean}
    */
-  isBrowserSupported: function(){
-    return !!window.chrome;
-  },
+  isBrowserSupported: !!window.chrome,
 
   /**
    * Checks if the extension 

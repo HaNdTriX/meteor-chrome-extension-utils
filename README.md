@@ -54,7 +54,7 @@ Include the [file](extension/chrome-extension.js) manually.
 
 *meteor client* 
 
-    ChromeExtension.isBrowserSupported();
+    ChromeExtension.isBrowserSupported;
 
 ### Trigger inline install
 
