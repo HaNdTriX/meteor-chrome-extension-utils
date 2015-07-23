@@ -15,6 +15,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('handtrix:chrome-extension-client');
+  api.use('handtrix:chrome-extension-utils');
   api.addFiles('meteor/client/chrome-extension-tests.js');
 });
