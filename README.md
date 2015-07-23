@@ -23,6 +23,11 @@ And add your [extension id](https://developer.chrome.com/apps/manifest/key) to y
         }
     }
 
+Add the following link tag to the `<head>`-Section of your page and replace `<yourExtensionId>` with your own.
+
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/<yourExtensionId>">
+
+
 ## Install Chrome Extension Package
 
 In your chrome extension install this package via:
