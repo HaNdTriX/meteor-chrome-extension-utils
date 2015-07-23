@@ -1,6 +1,6 @@
 {
   "name": "meteor-chrome-extension-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lets you call extension methods from the meteor client",
   "main": "extension/chrome-extension.js",
   "scripts": {

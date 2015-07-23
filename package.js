@@ -1,6 +1,6 @@
 Package.describe({
   name: 'handtrix:chrome-extension-utils',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Lets you call extension methods from the meteor client',
   git: 'https://github.com/HaNdTriX/meteor-chrome-extension-utils.git',
   documentation: 'README.md'
