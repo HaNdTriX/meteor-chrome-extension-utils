@@ -1,0 +1,26 @@
+{
+  "name": "meteor-chrome-extension-utils",
+  "version": "0.0.1",
+  "description": "Lets you call extension methods from the meteor client",
+  "main": "extension/chrome-extension.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HaNdTriX/meteor-chrome-extension-utils.git"
+  },
+  "keywords": [
+    "meteor",
+    "chrome-extension",
+    "messaging",
+    "onMessageExternal",
+    "chrome"
+  ],
+  "author": "Henrik Wenz <handtrix@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaNdTriX/meteor-chrome-extension-utils/issues"
+  },
+  "homepage": "https://github.com/HaNdTriX/meteor-chrome-extension-utils"
+}

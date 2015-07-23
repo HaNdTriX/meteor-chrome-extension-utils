@@ -1,0 +1,5 @@
+.npm
+.build*
+smart.lock
+versions.json
+.DS_Store
